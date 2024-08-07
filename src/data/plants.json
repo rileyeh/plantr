@@ -1,0 +1,84 @@
+{
+    "plants": [
+        {
+            "id": 1,
+            "species": "Fiddle Leaf Fig",
+            "name": "Alex",
+            "lastWatered": 1721433600000,
+            "lastFed": 1721260800000,
+            "imageUrl": "fiddleLeaf"
+        },
+        {
+            "id": 2,
+            "species": "Snake Plant",
+            "name": "Bailey",
+            "lastWatered": 1721606400000,
+            "lastFed": 1721347200000,
+            "imageUrl": "snakePlant"
+        },
+        {
+            "id": 3,
+            "species": "Pothos",
+            "name": "Charlie",
+            "lastWatered": 1721520000000,
+            "lastFed": 1721174400000,
+            "imageUrl": "pothos"
+        },
+        {
+            "id": 4,
+            "species": "Monstera",
+            "name": "Dakota",
+            "lastWatered": 1721347200000,
+            "lastFed": 1721001600000,
+            "imageUrl": "monstera"
+        },
+        {
+            "id": 5,
+            "species": "Peace Lily",
+            "name": "Elliot",
+            "lastWatered": 1721260800000,
+            "lastFed": 1721088000000,
+            "imageUrl": "peaceLily"
+        },
+        {
+            "id": 6,
+            "species": "Spider Plant",
+            "name": "Finley",
+            "lastWatered": 1721692800000,
+            "lastFed": 1721433600000,
+            "imageUrl": "spiderPlant"
+        },
+        {
+            "id": 7,
+            "species": "Aloe Vera",
+            "name": "Gabriel",
+            "lastWatered": 1721606400000,
+            "lastFed": 1721260800000,
+            "imageUrl": "aloeVera"
+        },
+        {
+            "id": 8,
+            "species": "Rubber Plant",
+            "name": "Harper",
+            "lastWatered": 1721520000000,
+            "lastFed": 1721174400000,
+            "imageUrl": "rubberPlant"
+        },
+        {
+            "id": 9,
+            "species": "ZZ Plant",
+            "name": "Indigo",
+            "lastWatered": 1721433600000,
+            "lastFed": 1721347200000,
+            "imageUrl": "zzPlant"
+        },
+        {
+            "id": 10,
+            "species": "Chinese Evergreen",
+            "name": "Jordan",
+            "lastWatered": 1721260800000,
+            "lastFed": 1721001600000,
+            "imageUrl": "chineseEvergreen"
+        }
+    ]
+}
